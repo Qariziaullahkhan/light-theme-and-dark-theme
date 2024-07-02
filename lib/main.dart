@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:theme/providers/Theme_provider.dart';
-import 'package:theme/providers/Theme_provider.dart';
-import 'package:theme/providers/Theme_provider.dart';
+import 'package:theme/providers/Theme_provider';
+import 'package:theme/providers/Theme_provider';
+import 'package:theme/providers/Theme_provider';
 import 'package:theme/views/Dark_theme_screen.dart';
 
-import 'providers/Theme_provider.dart';
+import 'providers/Theme_provider';
 
 void main() {
   runApp(const MyApp());
